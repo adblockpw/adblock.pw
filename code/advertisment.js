@@ -1,1 +1,0 @@
-document.write('<div id="ads" style="display: none !important;>an advertisement</div>');
